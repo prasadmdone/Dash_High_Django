@@ -49,5 +49,3 @@ After that, you should:
     ```
 
 
-See README.md in the generated project for instructions on how to set up your development environment.
-
