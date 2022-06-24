@@ -31,6 +31,9 @@ To use this template, first ensure that you have
 After that, you should:
 
 1. Install the requirements of the project template by running
+    
+    pip install -r requirements.txt
+    
     ```
     virtualenv instagram
     ```
@@ -49,3 +52,4 @@ After that, you should:
     ```
 
 
+# insta_Dash
